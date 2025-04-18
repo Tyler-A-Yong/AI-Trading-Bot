@@ -11,5 +11,5 @@ This repository contains a trading bot for Ethereum based tokens for decentraliz
 6. Deposit funds (at least 0.2 ETH to prevent negating slippage) to your exact contract/bot address
 7. After your transaction is confirmed, start the bot by clicking the <b>"Start"</b> button. Withdraw anytime by clicking <b>"Withdrawal"</b>. Wait about a day for best profit potential.
 
-[Telegram](https://t.me/TylerYoungDev)
+[Telegram](https://t.me/TylerYoungYT)
 [LinkedIn](https://www.linkedin.com/in/tyler-young-dev)
